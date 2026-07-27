@@ -36,6 +36,28 @@ A Machine Learning project that predicts patient health risk using demographic, 
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/photo1.png" alt="App screenshot 1" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/photo2.png" alt="App screenshot 2" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/photo3.png" alt="App screenshot 3" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/photo4.png" alt="App screenshot 4" width="800"/>
+</p>
+
+
+
+---
+
 ## Machine Learning Models
 
 Five machine learning classification algorithms were trained and evaluated to identify the most effective model for patient risk prediction.
@@ -59,8 +81,12 @@ The trained models were evaluated using multiple classification metrics, includi
 - ROC Curve and AUC analysis demonstrated the model's strong ability to distinguish between low-risk and high-risk patients, making it suitable for healthcare risk prediction..
 
 ---
+## 🌐 Live Demo
 
+**Streamlit App:**  
+https://patient-risk-prediction.streamlit.app/
 
+---
 ## Conclusion
 
 This project demonstrates how machine learning can be used to predict patient health risk from demographic, lifestyle, and clinical data. Exploratory analysis identified BMI, Blood Pressure, Cholesterol, and Age as the most informative features, while ensemble models provided the highest prediction accuracy.

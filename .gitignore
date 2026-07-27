@@ -1,3 +1,35 @@
+# Jupyter
 .ipynb_checkpoints/
 .virtual_documents/
+ 
+# Conda
 anaconda_projects/
+.conda/
+conda-meta/
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+ 
+# Virtual environments
+venv/
+.venv/
+env/
+ 
+# Environment variables
+.env
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# VS Code
+.vscode/
+ 
+# PyCharm
+.idea/
+ 
+# Logs
+*.log
+ 
